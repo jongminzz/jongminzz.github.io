@@ -1,6 +1,6 @@
 ---
 title: "[BOJ] 14863 - 서울에서 경산까지"
-date: 2026-04-06
+date: 2026-04-05
 draft: false
 categories:
     - Algorithm
